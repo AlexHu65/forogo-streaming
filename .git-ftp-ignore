@@ -1,0 +1,6 @@
+test-beta/laravel/node_modules/*
+test-beta/laravel/.env.example
+test-beta/laravel/server.php
+test-beta/laravel/phpunit.xml
+test-beta/laravel/webpack.mix.js
+.git-ftp-ignore
